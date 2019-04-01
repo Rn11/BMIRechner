@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Rechner</string>
+    <string name="btnCalculate">BMI Berechnen</string>
+    <string name="lblWeight">Gewicht (in kg)</string>
+    <string name="lblHeight">Größe (in cm)</string>
+    <string name="lblOutput">Bitte Daten eingeben!</string>
+
+    <string name="calculationFinished">Ihr BMI beträgt %1$s</string>
+    <string name="exceptionFormatMismatch">Fehler bei Eingabe der Daten!</string>
+    <string name="exceptionInvalidInputRange">Eingegebene Daten liegen außerhalb des Gültigkeitsbereiches</string>
+</resources>
